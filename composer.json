@@ -1,5 +1,5 @@
 {
-    "name": "encore/laravel-admin",
+    "name": "yushuiye/laravel-admin",
     "description": "laravel admin grid add table responsive",
     "type": "library",
     "keywords": ["laravel", "admin", "grid", "form"],
