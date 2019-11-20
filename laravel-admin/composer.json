@@ -1,9 +1,9 @@
 {
-    "name": "encore/laravel-admin",
+    "name": "one/laravel-admin",
     "description": "laravel admin grid add table responsive",
     "type": "library",
     "keywords": ["laravel", "admin", "grid", "form"],
-    "homepage": "https://github.com/yeyushui/one/laravel-admin",
+    "homepage": "https://github.com/yeyushui/one",
     "license": "MIT",
     "authors": [
         {
